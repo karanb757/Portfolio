@@ -15,7 +15,7 @@ const Projects = () => {
 
     return () => clearInterval(timer);
   }, []);
-
+  
   return (
     <div className="h-screen">
       <Navbar />
