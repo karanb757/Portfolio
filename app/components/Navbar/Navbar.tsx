@@ -24,7 +24,7 @@ const Navbar = () => {
           <div className='backdrop-blur-md border border-white/10 rounded-full px-4 py-2 flex gap-4 '>
             <Link className='text-sm text-white' href="/">Home</Link>
             <Link className='text-sm text-white' href="/showcase">showcase</Link>
-            <Link className='text-sm text-white' href="/Projects">projects</Link>
+            <Link className='text-sm text-white' href="/projects">projects</Link>
           </div>
           <div className='backdrop-blur-sm bg-white/5 border border-white/10 px-4 py-2 pb-4 rounded-full transition-colors hover:bg-white/10 flex items-center gap-2'>
           <ThemeToggleButton variant='gif' url='https://media.giphy.com/media/v1.Y2lkPTgyYTE0OTNiZTN6OXhqemZzMGI2MjdzYWVodjZ4b2tuNm85eGV5Y3FkMGh3eXc1byZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/qHbIOCU929bQ3QlcVU/giphy.gif'/>
